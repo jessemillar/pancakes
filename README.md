@@ -1,2 +1,22 @@
 # pancakes
-A pancake recipe I’m trying to perfect
+
+A pancake recipe I'm trying to perfect. Originally taken [from here](https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/).
+
+## Goals
+
+- Make the recipe liquid enough to be able to easily use my [pancake batter dispenser](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=31&ved=2ahUKEwjB1rDQ9PnnAhWpHjQIHY5pCykQFjAeegQIAxAB&url=https%3A%2F%2Fwww.amazon.com%2FPancake-Cupcake-Batter-Dispenser-KPKitchen%2Fdp%2FB00R48FNTE&usg=AOvVaw0rVHbNiQsagxs5F0kDy-Mt)
+
+## Ingredients
+
+- 1 1/2 cups all-purpose flour
+- 3 1/2 teaspoons baking powder
+- 1 teaspoon salt
+- 1 tablespoon white sugar
+- 1 1/4 cups milk
+- 1 egg
+- 3 tablespoons butter, melted
+
+## Directions
+
+1. In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
+1. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
