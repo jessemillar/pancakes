@@ -19,4 +19,5 @@ A pancake recipe I'm trying to perfect. Originally taken [from here](https://www
 ## Directions
 
 1. In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
-1. Heat a griddle to 350 degrees. Pour the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook for 1 minute 40 seconds on each side.
+1. Heat a griddle to 325 degrees. Pour the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook for 2 minutes on each side.
+1. Serve with butter and syrup.
