@@ -1,6 +1,6 @@
 # pancakes
 
-[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fjessemillar-man-hours.herokuapp.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Fjessemillar%2Fpancakes.git)](https://github.com/jessemillar/man-hours)
+[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.%3Eessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Fjessemillar%2Fpancakes.git)](https://jessemillar.com/r/man-hours)
 
 A pancake recipe I'm trying to perfect. Originally taken [from here](https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/).
 
