@@ -7,11 +7,9 @@
 
 ## Buttermilk
 
-Originally taken [from here](https://pinchofyum.com/fluffiest-blueberry-pancakes) and tweaked to be more readable.
+> Originally taken [from here](https://pinchofyum.com/fluffiest-blueberry-pancakes) and tweaked to be more readable.
 
-> Can be made with or without blueberries.
-
-Makes 4-6 pancakes.
+Makes 4-6 pancakes. Can be made with or without blueberries.
 
 ### Ingredients
 
@@ -46,7 +44,7 @@ Makes 4-6 pancakes.
 
 ## Standard
 
-A pancake recipe I'm trying to perfect. Originally taken [from here](https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/).
+> Originally taken [from here](https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/).
 
 ### Goals
 
