@@ -29,9 +29,19 @@ Makes 4-6 pancakes.
 ### Directions
 
 1. Mix the milk and vinegar and let sit for a minute or two (you're making "buttermilk")
-1. Whisk the flour, sugar, baking powder, baking soda, and salt together in a bowl
-1. Add the egg, milk, and melted butter to the bowl and mix until combined
+1. Whisk together in a bowl:
+    - Flour
+    - Sugar
+    - Baking powder
+    - Baking soda
+    - Salt
+1. Melt the butter
 1. Heat your skillet to 350 degrees
+1. To the dry ingredients, add:
+    - Egg
+    - Milk
+    - Melted butter
+1. Mix until combined
 1. Pour 1/3 cup of batter onto the hot skillet, arrange a few blueberries on top, and cook for 2 minutes on each side
 
 ## Standard
@@ -55,16 +65,15 @@ A pancake recipe I'm trying to perfect. Originally taken [from here](https://www
 ## Directions
 
 1. In a large bowl, sift together:
-  - Flour
-  - Baking powder
-  - Salt
-  - Sugar
+    - Flour
+    - Baking powder
+    - Salt
+    - Sugar
 1. Melt the butter
 1. Heat a griddle to 325 degrees
 1. Make a well in the center of the dry ingredients and pour in:
-  - Milk
-  - Egg
-  - Melted butter
+    - Milk
+    - Egg
+    - Melted butter
 1. Mix until smooth
 1. Pour the batter onto the griddle, using approximately 1/4 cup for each pancake; cook for 2 minutes on each side
-1. Serve with butter and syrup
