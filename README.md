@@ -60,7 +60,7 @@ Makes 4-6 pancakes. Can be made with or without blueberries.
 - 1 egg
 - 3 tablespoons butter, melted
 
-## Directions
+### Directions
 
 1. In a large bowl, sift together:
     - Flour
