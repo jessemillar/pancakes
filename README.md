@@ -26,19 +26,21 @@ Makes 4-6 pancakes. Can be made with or without blueberries.
 
 ### Directions
 
-1. Mix the milk and vinegar and let sit for a minute or two (you're making "buttermilk")
+1. Make buttermilk by combining the following and letting the mixture sit for a minute or two:
+    - 3/4 cup milk
+    - 2 tablespoons white vinegar
 1. Whisk together in a bowl:
-    - Flour
-    - Sugar
-    - Baking powder
-    - Baking soda
-    - Salt
-1. Melt the butter
+    - 1 cup flour
+    - 2 tablespoons sugar
+    - 1 teaspoon baking powder
+    - 1/2 teaspoon baking soda
+    - 1/2 teaspoon salt
+1. Melt 2 tablespoons butter
 1. Heat your skillet to 350 degrees
 1. To the dry ingredients, add:
-    - Egg
-    - Milk
-    - Melted butter
+    - 1 egg
+    - Buttermilk
+    - 2 tablespoons melted butter
 1. Mix until combined
 1. Pour 1/3 cup of batter onto the hot skillet, arrange a few blueberries on top, and cook for 2 minutes on each side
 
